@@ -1,0 +1,10 @@
+[package]
+name = "tests"
+version = "0.1.0"
+authors = ["Vladyslav Hordiienko <hord.vlad@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+bytes = "0.5"
+structs-ser-deser-derive = { path = "../structs-ser-deser-derive" }
+structs-ser-deser-traits = { path = "../structs-ser-deser-traits" }

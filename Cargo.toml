@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "structs-ser-deser-derive",
+    "structs-ser-deser-traits",
+    "tests",
+]

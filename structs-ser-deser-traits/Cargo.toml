@@ -1,0 +1,8 @@
+[package]
+name = "structs-ser-deser-traits"
+version = "0.1.0"
+authors = ["Vladyslav Hordiienko <hord.vlad@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+byteorder = "1.3"
